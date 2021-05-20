@@ -16,7 +16,7 @@
         "cors": "^2.5.2",
         "dynamic-html-pdf": "^1.0.1",
         "helmet": "^3.10.0",
-        "html-pdf": "^2.2.0",
+        "html-pdf": "^3.0.1",
         "iconv-lite": "^0.5.0",
         "linebreak": "^1.0.2",
         "loopback": "^3.22.0",
